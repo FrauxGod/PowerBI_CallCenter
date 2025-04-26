@@ -14,10 +14,10 @@ and make informed decisions to enhance customer satisfaction and resource alloca
 
 
 3. Objectives
--Track call volumes and call handling times.
--Analyze call reasons and customer sentiment.
--Evaluate performance across different call centers and communication channels.
--Identify areas for operational improvements and faster response times.
+-Track call volumes and call handling times. <br />
+-Analyze call reasons and customer sentiment. <br />
+-Evaluate performance across different call centers and communication channels. <br />
+-Identify areas for operational improvements and faster response times. <br />
 
 
 4. Key Performance Indicators (KPIs)
